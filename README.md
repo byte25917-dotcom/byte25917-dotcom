@@ -7,15 +7,13 @@
 </h1>
 
 <p align="left">
-  🔭 Innovative mobile developer with a proven track record of designing and developing user-friendly applications for iOS and Android platforms. Expert in implementing responsive interfaces using Swift and Kotlin, optimizing performance to reduce load times by 30%. Strong background in unit testing and maintaining comprehensive documentation to enhance application reliability. Committed to delivering exceptional user experiences through effective collaboration and technical expertise.
+  Results-driven Full-Stack Developer with 10+ years of experience designing, developing, and scaling secure online gambling and iGaming platforms. Proven expertise in real-money gaming systems, sportsbook operations, casino integrations, payment processing, wallet architectures, and regulatory compliance across MGA and UKGC environments. Successfully led the development of high-availability platforms serving over 500,000 users while maintaining strict security, performance, and compliance standards.
 
-  🌱 Detail-oriented mobile developer with a strong emphasis on documentation and user experience. Proven capability in designing applications that streamline user engagement, backed by solid programming skills in Swift and Kotlin. Demonstrated success in enhancing application performance and reliability through comprehensive testing methodologies. Committed to driving innovation and delivering high-quality mobile solutions.
+Extensive experience building end-to-end solutions using modern frontend and backend technologies, including React, Next.js, Node.js, NestJS, Spring Boot, and cloud-native infrastructure. Specialized in integrating certified RNG providers, live casino and sportsbook APIs, payment gateways, KYC/AML services, and fraud detection systems to deliver seamless and secure player experiences.
 
-  👯 Results-driven mobile developer specializing in both iOS and Android application development. Demonstrated success in enhancing user engagement through innovative design and performance optimization techniques. Proficient in coding, testing, and documentation, ensuring high-quality deliverables. Eager to contribute unique insights and technical skills to propel project success.
+Demonstrated success in developing sportsbook odds engines, betting workflows, bonus management systems, and real-time gaming applications. Strong background in database optimization, distributed systems, WebSocket performance tuning, and scalable microservice architectures, resulting in improved platform reliability and reduced payment failures.
 
-  💬 Designed and developed engaging mobile applications for both iOS and Android, enhancing user satisfaction and engagement. Leveraged Swift and Kotlin for responsive interfaces, achieving a 30% reduction in load times through performance optimization. Expert in unit testing and automated scripts, ensuring high-quality code and comprehensive documentation for system architecture. A results-driven developer ready to create innovative solutions that elevate user experiences.
-
-  📫 Skilled mobile developer with a proven track record in building user-centric applications for diverse platforms. Proficient in API integration and cross-platform development, streamlining processes and enhancing functionality. Demonstrated ability to improve application performance while maintaining thorough documentation and conducting code reviews. Committed to delivering measurable results and driving technological advancements in mobile development.
+A collaborative engineering professional who works closely with product teams, compliance specialists, traders, and QA engineers to deliver innovative gaming solutions aligned with business objectives and regulatory requirements. Committed to building secure, scalable, and high-performing iGaming products while maintaining comprehensive technical documentation and engineering best practices.
 </p>
 
 <p align="center">
